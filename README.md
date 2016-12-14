@@ -1,4 +1,4 @@
 MantisBT-PastePicture
 =====================
 
-Paste print screens directly into MatisBT issue reporting(details) page
+Paste screenshots directly into MantisBT issue reporting (details) page
