@@ -12,7 +12,7 @@ $("document").ready(function(){
                         uf.val(data.dataURL);
                         $('#pasteImg').attr('src',data.dataURL);
 
-                        var sb = $('input[value="Upload File"]');
+                        var sb = $('#upload_form_open input[type="submit"]');
                         if(sb.size()==1){
                             sb.css('border','5px solid red');
                             var frm = sb.closest('form');
